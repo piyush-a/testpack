@@ -3,4 +3,4 @@ name: hello
 enabled: True
 description: say hello to stackstorm
 runner_type: python-script
-entry_point: hello.py
+entry_point: scripts/hello.py
