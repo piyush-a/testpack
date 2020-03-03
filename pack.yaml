@@ -1,0 +1,12 @@
+---
+ref: testpack
+name : testpack
+description : A testpack for st2
+keywords:
+  - python3
+version: 0.0.1
+python_versions:
+  - "3"
+author : piyush
+email : piyush.a@endurance.com
+
